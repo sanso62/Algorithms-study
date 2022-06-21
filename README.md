@@ -31,3 +31,6 @@
 ## Directory Structure
 mindong/주제/20220621_Leetcode_문제번호.py <br>
 jihoon/주제/20220621_BackJoon_문제번호.java
+
+## Commit Message Rule
+20220621_Letecode_문제번호
