@@ -29,5 +29,8 @@
 5. 장점
 
 ## Directory Structure
-mindong/Leetcode/주제/20220621_문제번호.py <br>
-jihoon/BackJoon/주제/20220621_문제번호.java
+mindong/주제/20220621_Leetcode_문제번호.py <br>
+jihoon/주제/20220621_BackJoon_문제번호.java
+
+## Commit Message Rule
+20220621_Letecode_문제번호
