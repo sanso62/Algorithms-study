@@ -1,10 +1,12 @@
-# 알고리즘 스터디 
+# Algorithms-study  
 
 ## Abstract
 
 - 기간: 2022년 6월 ~ 7월
 - 정기 회의: 목요일 20시
 - 언어: C/C++, Python
+
+<br>
 
 ## Rule
 
@@ -14,11 +16,16 @@
 4. 정기회의날 선정한 2문제, 이번주 좋았던 1문제 코드 리뷰 및 다음에 코드 리뷰할 2문제 선정 
 5. 정기회의날 진도 체크하고 미완료 시, 만족될 때까지 집에 못감.
 
+<br>
+
 ## Pull Request Rule
 
 1. 자기 이름의 브랜치에 풀이 코드 푸쉬
 2. 완성됐다고 생각하면, main 브랜치에 pull request. 이때, comment에 코드 설명하기.
 3. 상대방이 pull request한 코드를 보고 comment에 피드백한 후 merge하기. 
+
+
+<br>
 
 ## Description Method
 
@@ -28,15 +35,23 @@
 4. 사용 라이브러리 간단하게 설명
 5. 장점
 
+
+<br>
+
 ## Directory Structure
 mindong/주제/20220621_Leetcode_문제번호.py <br>
-jihoon/주제/20220621_BackJoon_문제번호.java
+jihoon/주제/20220621_BackJoon_문제번호.cpp
+
+
+<br>
 
 ## Commit Message Rule
 20220621_Letecode_문제번호
 
 
-## 일정표
+<br>
+
+## Schedule
 
 
 | **주차** | **코드리뷰문제**          | **zihoonc**                                                   | **sanso62**                                                   | **정기회의일시**                                                   | **진행 현황** |
