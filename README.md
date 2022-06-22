@@ -39,15 +39,9 @@ jihoon/주제/20220621_BackJoon_문제번호.java
 ## 일정표
 
 
-| **주차** | **코드리뷰문제**          | **문제 1**                                                   | **문제 2**                                                   | **문제 3**                                                   | **진행 현황** |
+| **주차** | **코드리뷰문제**          | **zihoonc**                                                   | **sanso62**                                                   | **정기회의일시**                                                   | **진행 현황** |
 | -------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
-| 1주차    |               |  |  |                                                              | `진행 중`   |
-| 2주차    |          |  |  |                                                              | `진행 완료`   |
-| 3주차    |          |  |  |                                                              | `진행 완료`   |
-| 4주차    |              |  |  |  | `진행 완료`   |
-| 5주차    |                 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | `진행 완료`   |
-| 6주차    |                 | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | `진행 완료`   |
-| 7주차    |        | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |                                                              | `진행 완료`   |
-| 8주차    |  | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | `진행 완료`   |
-| 9주차    |                 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | `진행 완료`   |
-| 10주차   |                | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | `진행 완료`   |
+| 1주차    |     없음.      |  | Leetcode 125, 344, 937, 819, 49, 5, 148, 56, 147, 179, 242, 75, 973 |                         2022.06.30 20:00                                     | `진행 중`   |
+| 2주차    |          |  |  |                                                              | `진행 예정`   |
+| 3주차    |          |  |  |                                                              | `진행 예정`   |
+| 4주차    |          |  |  |  | `진행 예정`   |
