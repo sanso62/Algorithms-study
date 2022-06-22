@@ -45,7 +45,7 @@ jihoon/주제/20220621_BackJoon_문제번호.cpp
 
 <br>
 
-## Commit Message Rule
+## Commit Message Form
 20220621_Letecode_문제번호
 
 
