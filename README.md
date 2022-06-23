@@ -51,8 +51,6 @@ jihoon/주제/20220621_BackJoon_문제번호.cpp
 ## Commit Message Form
 20220621_Leetcode_문제번호
 
-주의! 한 문제당 하나의 커밋으로 한다.
-
 
 <br>
 
