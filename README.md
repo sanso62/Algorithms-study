@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=텍스트&fontSize=50px)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text= Algorithms study  &fontSize=200px)
 
 # Algorithms-study  
 
