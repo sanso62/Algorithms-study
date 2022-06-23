@@ -1,5 +1,6 @@
-# Algorithms-study  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Algorithms_study&fontSize=100)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/sanso62?theme=nord&font=Chau%20Philomene%20One)
 ## Abstract
 
 - 기간: 2022년 6월 ~ 7월
@@ -29,8 +30,10 @@
 
 ## Description Method
 
-1. 적용 자료구조, 알고리즘 개념 간단하게 설명
-2. 문제 풀이를 위한 접근방식 설명
+문제번호. 문제이름
+<br>간단한 문제설명
+1. 문제 풀이를 위한 접근방식 설명
+2. 적용 자료구조, 알고리즘 개념 간단하게 설명
 3. 시간 복잡도 계산
 4. 사용 라이브러리 간단하게 설명
 5. 장점
@@ -46,7 +49,9 @@ jihoon/주제/20220621_BackJoon_문제번호.cpp
 <br>
 
 ## Commit Message Form
-20220621_Letecode_문제번호
+20220621_Leetcode_문제번호
+
+주의! 한 문제당 하나의 커밋으로 한다.
 
 
 <br>
