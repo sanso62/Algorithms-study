@@ -1,5 +1,6 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Algorithms_study&fontSize=100)
 
+![Leetcode Stats](https://leetcard.sanso62.cool/sanso62)
 ## Abstract
 
 - 기간: 2022년 6월 ~ 7월
