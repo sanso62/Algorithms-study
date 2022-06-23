@@ -1,7 +1,5 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Algorithms_study&fontSize=100)
 
-# Algorithms-study  
-
 ## Abstract
 
 - 기간: 2022년 6월 ~ 7월
