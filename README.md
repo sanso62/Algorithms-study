@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Algorithms\sstudy&fontSize=100)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Algorithms%20study&fontSize=100)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sanso62?theme=nord&font=Chau%20Philomene%20One)
 ## Abstract
