@@ -1,4 +1,4 @@
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Algorithms_study&fontSize=100)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Algorithms%20study&fontSize=100)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sanso62?theme=nord&font=Chau%20Philomene%20One)
 ## Abstract
@@ -51,8 +51,6 @@ jihoon/주제/20220621_BackJoon_문제번호.cpp
 ## Commit Message Form
 20220621_Leetcode_문제번호
 
-주의! 한 문제당 하나의 커밋으로 한다.
-
 
 <br>
 
@@ -61,7 +59,7 @@ jihoon/주제/20220621_BackJoon_문제번호.cpp
 
 | **주차** | **코드리뷰문제**          | **zihoonc**                                                   | **sanso62**                                                   | **정기회의일시**                                                   | **진행 현황** |
 | -------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
-| 1주차    |     없음.      |  | Leetcode 125, 344, 937, 819, 49, <br> 5, 148, 56, 147, 179, 242, 75, 973 |                         2022.06.30 20:00                                     | `진행 중`   |
+| 1주차    |     없음.      |  | Leetcode ~~125, 344, 937, 819~~, 49, <br> ~~5, 148, 56~~, 147, 179, 242, 75, 973 |                         2022.06.30 20:00                                     | `진행 중`   |
 | 2주차    |          |  |  |                                                              | `진행 예정`   |
 | 3주차    |          |  |  |                                                              | `진행 예정`   |
 | 4주차    |          |  |  |  | `진행 예정`   |
