@@ -3,9 +3,17 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sanso62?theme=nord&font=Chau%20Philomene%20One)
 ## Abstract
 
+<details>
+<summary>여름방학 알고리즘 스터디</summary>
+<div markdown="1">
+
 - 기간: 2022년 6월 ~ 7월
 - 정기 회의: 목요일 18시
 - 언어: Python
+
+</div>
+</details>
+
 
 <br>
 
