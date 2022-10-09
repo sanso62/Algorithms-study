@@ -1,7 +1,27 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Algorithms%20study&fontSize=100)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/sanso62?theme=nord&font=Chau%20Philomene%20One)
 
+<figure class="thrid">
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=koosaga)](https://github.com/mazassumnida/mazassumnida)
+</figure>
+
+
+
+
+
+
+## Abstract
+
+- 기간: 2022년 10월 8일~
+- 정기 회의: 토요일 3시 or 일요일 3시
+- 언어: C/C++, Java, Python
+
+<br>
 
 ## Schedule
 
@@ -10,14 +30,6 @@
 | ------------ | --------------   | ---------------------------------------------------------- | ------------- |
 | 2022.10.08   |    수학          |                            킥오프                          |  `진행 완료`  |
 | 2022.10.16   |    수학          | 1037, 17427, 17425, 2609, 1978, 1929, 6588                 |   `진행 중`   |
-
-
-## Abstract
-
-- 기간: 2022년 10월 8일
-- 정기 회의: 토요일 3시 or 일요일 3시
-- 언어: C/C++, Java, Python
-
 
 
 <br>
