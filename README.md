@@ -1,18 +1,17 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Algorithms%20study&fontSize=100)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sanso62?theme=nord&font=Chau%20Philomene%20One)
-## Abstract
+
 
 <details>
 <summary>여름방학 알고리즘 스터디</summary>
 <div markdown="1">
+## Abstract
 
 - 기간: 2022년 6월 ~ 7월
 - 정기 회의: 목요일 18시
 - 언어: Python
 
-</div>
-</details>
 
 
 <br>
@@ -71,3 +70,6 @@ jihoon/주제/20220621_BackJoon_문제번호.cpp
 | 2주차    |    boj 11945      | Codeit 재귀함수 1,2,3,4,5,6 | Leetcode ~~1,42, 15, 561, 238, 121,~~ 704, 33 |                           2022.07.07 20:00                                   | `진행 완료`   |
 | 3주차    |          |  | Leetcode 234, 21, 206, 704, 33, 349, 167, 240 |                      2022.07.14 15:00                                         | `진행 중`   |
 | 4주차    |          |  |  이진탐색 |  | `진행 예정`   |
+
+</div>
+</details>
