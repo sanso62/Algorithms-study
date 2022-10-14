@@ -63,8 +63,8 @@ jihoon/Math/20220621_BackJoon_2000.java <br>
 <br>
 
 ## Commit Message Form
-[날짜]_[플랫폼이름]_[문제번호]
-20220621_Leetcode_1000
+[날짜]_[문제번호]
+20220621_1000,2000
 
 
 <br>
