@@ -3,7 +3,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)](https://solved.ac/malkoring)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leecks1119)](https://solved.ac/leecks1119)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanso)](https://solved.ac/sanso)
