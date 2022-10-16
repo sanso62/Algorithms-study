@@ -3,7 +3,7 @@ num_arr = list(map(int, input().split()))
 
 num_arr.sort()
 
-for target_value in range(1,1000000):
+for target_value in range(1,1000001):
     find_value_flag = True
     for num in num_arr:
         if( target_value % num != 0 ):
