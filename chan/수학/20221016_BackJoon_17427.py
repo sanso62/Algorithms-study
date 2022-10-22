@@ -1,3 +1,5 @@
+# 17427번 - 약수의 합 2
+
 def f(num):
     temp_sum = 0
     for i in range(1, num+1):

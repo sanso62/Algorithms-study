@@ -1,3 +1,5 @@
+# 1037번 - 약수
+
 cnt = int(input())
 num_arr = list(map(int, input().split()))
 
