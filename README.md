@@ -3,7 +3,10 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Malkoring)](https://solved.ac/malkoring)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=leecks1119)](https://solved.ac/leecks1119)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ilikeicetea)](https://solved.ac/ilikeicetea)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sanso)](https://solved.ac/sanso)
@@ -27,8 +30,9 @@
 | **회의 날짜**     |    **주제**      |    **이번주 과제**                                     | **진행 현황** |
 | ------------ | --------------   | ---------------------------------------------------------- | ------------- |
 | 2022.10.08   |    수학          |                            킥오프                          |  `진행 완료`  |
-| 2022.10.16   |    수학          | 1037, 17427, 17425, 2609, 1978, 1929, 6588                 |   `진행 중`   |
-| 2022.10.23   |    수학          | 2309, 3085/최소, 1476, 1107                                |   `진행 중`   |
+| 2022.10.16   |    수학          | 1037, 17427, 17425, 2609, 1978, 1929, 6588                 |   `진행 완료` |
+| 2022.10.23   |    브루트포스          | 2309, 3085                                                  |   `진행 완료`   |
+| 2022.10.30   |    브루트포스          | 1476, 1107, 14500, 6064, 1748, 9095, 15649, 15650, 15651, 15652 |   `진행 중`   |
 
 
 <br>
