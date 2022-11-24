@@ -62,7 +62,7 @@
 <br>
 
 ## Directory Structure
-[이름]/[주제]/[날짜]_[플랫폼이름]_[문제번호].[파일확장명] <br><br>
+{이름}/{주제}/{날짜}_{플랫폼이름}_{문제번호}.{파일확장명} <br><br>
 mindong/Array/20220621_Leetcode_1000.py <br>
 jihoon/Math/20220621_BackJoon_2000.java <br>
 
@@ -70,9 +70,9 @@ jihoon/Math/20220621_BackJoon_2000.java <br>
 <br>
 
 ## Commit Message Form
-[이름]_[문제번호]
+{이름}_{날짜}
 <br>
-mindong_1000,2000
+mindong_20221124
 
 
 <br>
