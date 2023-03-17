@@ -72,8 +72,8 @@ jihoon/Math/20220621_BaekJoon_2000.java <br>
 
 ## Commit Message Form
 {플랫폼이름}_{문제번호}
-<br>
-_1111
+<br><br>
+BaekJoon_1111
 
 
 <br>
