@@ -19,7 +19,7 @@ def choose_energy(value, n, check):
                 if not check[k]:
                     right=k
                     break
-            check[i]=TrueSS
+            check[i]=True
             choose_energy(value+W[left]*W[right], n-1, check)
             check[i]=False
 
